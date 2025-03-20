@@ -21,7 +21,7 @@ h1 {
   margin-bottom: 20px;
   text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);
   background: linear-gradient(to right, #3498db, #2ecc71);
-  -webkit-background-clip: text;
+  /* -webkit-background-clip: text; */
   -webkit-text-fill-color: transparent;
   animation: fadeIn 1s ease-in;
 }
