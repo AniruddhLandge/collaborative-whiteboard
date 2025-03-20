@@ -38,3 +38,5 @@ Version Control: For more advanced collaborative features, version control can b
 Backend Integration: The backend is responsible for handling real-time communication between users and ensuring data consistency across sessions. This can be implemented using Node.js with Socket.io for real-time communication. For storing session data, user information, and whiteboard history, cloud databases like Firebase or traditional databases like MongoDB or PostgreSQL can be used.
 
 # OUTPUT
+
+![Image](https://github.com/user-attachments/assets/305d844f-8e95-4fda-b49a-1babcfc20c70)
